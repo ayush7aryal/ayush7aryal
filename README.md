@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7aryal&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7aryal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush7aryal" alt="ayush7aryal" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush7aryal" alt="ayush7aryal" /></a> </p> -->
 
 - 🌱 I’m currently learning **Flutter**
 
