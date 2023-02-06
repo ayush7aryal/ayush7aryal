@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Aryal</h1>
 <h3 align="center">A Computer Engineering Student at Kathmandu University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7aryal&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7aryal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush7aryal&label=Profile%20views&color=0e75b6&style=flat" alt="ayush7aryal" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush7aryal" alt="ayush7aryal" /></a> </p> -->
 
