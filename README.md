@@ -7,7 +7,6 @@
 
 <!-- - 🌱 I’m currently learning **Flutter** -->
 
-- 👨‍💻 All of my projects are available at [ayusharyalportfolio.netlify.app](ayusharyalportfolio.netlify.app)
 
 - 💬 Ask me about **React,Node, Javascript**
 
