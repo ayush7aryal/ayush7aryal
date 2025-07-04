@@ -8,7 +8,6 @@
 <!-- - 🌱 I’m currently learning **Flutter** -->
 
 
-- 💬 Ask me about **React,Node, Javascript**
 
 - 📫 How to reach me **ayush7aryal@gmail.com**
 
